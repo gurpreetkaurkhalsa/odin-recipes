@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small project assignment in Odin Project learning curriculum of foundations' course. This should be a test as well as practice of putting the knowledge of all HTML basic elements to build a website. That is to have basic blocks used to create a initialwebsite look.
